@@ -737,7 +737,7 @@
       "Sales History": "历史特卖"
     },
     ".highest-discount":{
-    "all-time low: ":"史低"
+    " \" all-time low: \" ":"史低:"
     },
     ".highest-discount-major": {
       "new historical low": "新史低"
@@ -745,11 +745,17 @@
     ".cat,.cat-play-for-free":{
       "Play For Free":"免费试玩"
     },
-    ".cat .cat-week-long-deal":{
-      "Week Long Deal":"为期一周的优惠",
-      "Weekend Deal":"周末优惠",
-      "Daily Deal":"日常优惠",
+    ".cat,.cat-midweek-deal":{
       "Midweek Deal":"周中优惠"
+    },
+    ".cat, .cat-week-long-deal":{
+      "Week Long Deal":"7天特惠"
+    },
+    ".cat ,.cat-weekend-deal":{
+      "Weekend Deal":"周末优惠"      
+    },
+    ".cat, .cat-daily-deal":{
+      "Daily Deal":"今日特惠"
     },
     ".fancy-price,.fancy-range>label": {
       "Price": "\n售价\n",
