@@ -736,8 +736,11 @@
       "When is the next Steam Sale?": "下一次 Steam 特卖是什么时候？",
       "Sales History": "历史特卖"
     },
+    ".highest-discount":{
+      "all-time low":"史低"
+    },
     ".highest-discount-major": {
-      "all-time low":"史低",
+     
       "new historical low": "新史低"
     },
     ".cat cat-week-long-deal":{
