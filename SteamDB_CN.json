@@ -738,7 +738,7 @@
     },
     ".highest-discount-major": {
       "all-time low":"史低",
-      "new historical low": "新史低"
+      "new historical low": "新史低1"
     },
     ".cat cat-week-long-deal":{
       
@@ -754,7 +754,7 @@
       "Reviews": "\n评测数\n",
       "Rating: ≥": "好评率 ≥",
       "Discount:": "折扣: "
-      
+
     },
     ".timeago":{
       "in":"",
