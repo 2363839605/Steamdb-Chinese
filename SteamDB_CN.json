@@ -737,7 +737,7 @@
       "Sales History": "历史特卖"
     },
     ".highest-discount":{
-    " \" all-time low: \" ":"史低:"
+    " \"\n all-time low: \" ":"史低:"
     },
     ".highest-discount-major": {
       "new historical low": "新史低"
